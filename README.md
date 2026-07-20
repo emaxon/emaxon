@@ -1,23 +1,8 @@
-<!--
-**emaxon/emaxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Evan Maxon
 
 ### Product Management by day. Shipping code at night and on the weekends.
 
-I’m a Product executive with 18+ years in FinTech and Digital Banking who believes the best way to lead technical teams is to understand the craft. I don't just write PRDs and roadmap documents; I build the tools, automate the pipelines, and ship the features. 
+I’m a product executive with 17 years in product management — about 9 of them in fintech and digital banking — who believes the best way to lead technical teams is to understand the craft. I don't just write PRDs and roadmap documents; I build the tools, automate the pipelines, and ship the features.
 
 Bridging the gap between the boardroom and the codebase.
 
@@ -32,7 +17,7 @@ I believe in proving skills through working software. Here is what's currently i
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Tiltless Poker** | AI-powered poker training app for Texas Hold'em. Aggregates data, evaluates skill metrics, and guides player improvement. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
+| **Stoa Poker** | AI-powered poker trainer for Texas Hold'em that builds the discipline and decision quality to stop playing on tilt. Aggregates hand data, scores skill metrics, and coaches improvement. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
 | **Options Engine** | Automated trading platform running Iron Condors and Straddles via several brokerage integrations (eg. Tradier, Schwab, IBKR). | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) |
 | **EPM Labs (Content Empire)** | 7-brand content portfolio (Lush Lawns, MowGuide, etc.) fully automated via AI content generation pipelines and SEO optimization. | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) |
 | **OpenClaw Infrastructure** | Personal AI assistant orchestration layer (Claude-powered) automating my local environment and workflows. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
@@ -47,7 +32,7 @@ Being a successful PM requires more than just managing a backlog—it requires d
 ### 🧰 The Toolbox
 
 #### **Product Leadership**
-`Digital Banking Platforms` • `B2B SaaS` • `Product Strategy` • `Agile/Scrum` • `Team Leadership (30+)` • `AI Integration Strategy` 
+`Digital Banking Platforms` • `B2B SaaS` • `Product Strategy` • `Agile/Scrum` • `Team Leadership (30+)` • `AI Integration Strategy`
 
 #### **Technical Chops**
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
